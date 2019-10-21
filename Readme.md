@@ -1,3 +1,4 @@
+README.md
 The given model is built as a part of Machine Learning module for TCD kaggle ML competition.
 The provided data set had a list of people and their various related information like hair color, height, country and a number of other features.
 I used Random Forest algorithm to predict the yearly salaries of all people.
